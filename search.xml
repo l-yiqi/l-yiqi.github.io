@@ -4,7 +4,7 @@
   
     
     <entry>
-      <title>Hello World</title>
+      <title>Hello World2</title>
       <link href="/posts/3eeb.html"/>
       <url>/posts/3eeb.html</url>
       
@@ -100,7 +100,7 @@
     
     
     <entry>
-      <title>哔哩哔哩</title>
+      <title>哔哩哔哩banner</title>
       <link href="/posts/9abe.html"/>
       <url>/posts/9abe.html</url>
       
@@ -110,9 +110,7 @@
       
         <tags>
             
-            <tag> Java </tag>
-            
-            <tag> JVM </tag>
+            <tag> 测试 </tag>
             
         </tags>
       
